@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+ * [PriorityQueue.cs]
+ * Copyright (c) 2020 ouchiminh
+ * This software is released under the MIT License.
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 
